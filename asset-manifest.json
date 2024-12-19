@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/abattler/static/css/main.ac37dafc.css",
-    "main.js": "/abattler/static/js/main.5cd11ba6.js",
+    "main.js": "/abattler/static/js/main.121a2bee.js",
     "static/js/453.fcf2d0a9.chunk.js": "/abattler/static/js/453.fcf2d0a9.chunk.js",
     "static/media/logo.svg": "/abattler/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abattler/index.html",
     "main.ac37dafc.css.map": "/abattler/static/css/main.ac37dafc.css.map",
-    "main.5cd11ba6.js.map": "/abattler/static/js/main.5cd11ba6.js.map",
+    "main.121a2bee.js.map": "/abattler/static/js/main.121a2bee.js.map",
     "453.fcf2d0a9.chunk.js.map": "/abattler/static/js/453.fcf2d0a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac37dafc.css",
-    "static/js/main.5cd11ba6.js"
+    "static/js/main.121a2bee.js"
   ]
 }
